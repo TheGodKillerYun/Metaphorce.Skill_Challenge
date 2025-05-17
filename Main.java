@@ -1,10 +1,10 @@
-package com.metaphorce.vista;
+package com.Metaphorce.vista;
 
-import com.metaphorce.modelo.GestorPeliculas;
-import com.metaphorce.modelo.Pelicula;
+import com.Metaphorce.modelo.GestorPeliculas;
+import com.Metaphorce.modelo.Pelicula;
 
 /**
- * Clase principal que demuestra el uso del gestor de películas.
+ * Clase principal que demuestra el uso del gestorx de películas.
  */
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.metaphorce.modelo;
+package com.Metaphorce.modelo;
 
 import java.util.ArrayList;
 import java.util.List;

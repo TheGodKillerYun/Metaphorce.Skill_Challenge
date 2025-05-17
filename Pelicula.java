@@ -1,4 +1,4 @@
-package com.metaphorce.modelo;
+package com.Metaphorce.modelo;
 
 /**
  * Clase que representa una película con sus atributos básicos.
